@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\eclipse\workspace\trito\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4132698081.index
+479941403.index
+1408618620.index
+2771847039.index
+1979982261.index
+1329484090.index
